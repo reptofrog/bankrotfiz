@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   fill="none"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="credit-card.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="17.354167"
+     inkscape:cx="24"
+     inkscape:cy="23.971188"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <g
+     clip-path="url(#clip0)"
+     id="g6"
+     style="fill:#2158be;fill-opacity:1;stroke:#2158be;stroke-opacity:1">
+    <path
+       d="M47.147 9.07765C46.525 8.34247 45.6541 7.89341 44.6944 7.81325L10.8923 4.99082C9.93249 4.91067 8.99931 5.20907 8.26403 5.83091C7.53175 6.45032 7.08335 7.31684 7.00066 8.27187L6.3206 14.6521H3.60514C1.61727 14.6521 0 16.2694 0 18.2572V39.4167C0 41.4046 1.61727 43.0219 3.60514 43.0219H37.525C39.5129 43.0219 41.1302 41.4046 41.1302 39.4167V35.9843L42.3339 36.0848C42.4354 36.0932 42.5364 36.0974 42.6365 36.0974C44.4897 36.0974 46.0696 34.6716 46.2265 32.7921L47.9872 11.706C48.0673 10.7463 47.7689 9.81293 47.147 9.07765ZM3.60514 16.5271H37.525C38.479 16.5271 39.2552 17.3032 39.2552 18.2572V20.1853H1.87499V18.2572C1.87499 17.3032 2.65115 16.5271 3.60514 16.5271ZM1.87499 22.0603H39.2552V25.9499H1.87499V22.0603ZM37.525 41.1469H3.60514C2.65115 41.1469 1.87499 40.3707 1.87499 39.4167V27.8249H39.2552V39.4167C39.2552 40.3707 38.479 41.1469 37.525 41.1469ZM46.1187 11.5499L44.358 32.636C44.2786 33.5867 43.4404 34.2959 42.4899 34.2162L41.1302 34.1027V18.2572C41.1302 16.2694 39.5129 14.6521 37.525 14.6521H8.20628L8.86618 8.46087C8.86693 8.45375 8.86759 8.44672 8.86815 8.4395C8.94756 7.48878 9.78531 6.77966 10.7363 6.85935L44.5385 9.68177C44.9991 9.72021 45.4171 9.93574 45.7155 10.2886C46.0139 10.6415 46.1572 11.0893 46.1187 11.5499Z"
+       fill="#0227AB"
+       stroke="#0227AB"
+       id="path2"
+       style="fill:#2158be;fill-opacity:1;stroke:#2158be;stroke-opacity:1" />
+    <path
+       d="M35.3318 30.6123H26.3091C25.7913 30.6123 25.3716 31.032 25.3716 31.5498V37.4363C25.3716 37.9541 25.7913 38.3738 26.3091 38.3738H35.3318C35.8495 38.3738 36.2693 37.9541 36.2693 37.4363V31.5498C36.2693 31.032 35.8495 30.6123 35.3318 30.6123ZM34.3943 36.4988H27.2466V32.4873H34.3943V36.4988Z"
+       fill="#0227AB"
+       stroke="#0227AB"
+       id="path4"
+       style="fill:#2158be;fill-opacity:1;stroke:#2158be;stroke-opacity:1" />
+  </g>
+  <defs
+     id="defs11">
+    <clipPath
+       id="clip0">
+      <rect
+         width="48"
+         height="48"
+         fill="white"
+         id="rect8" />
+    </clipPath>
+  </defs>
+</svg>
